@@ -1,4 +1,3 @@
 Enter file contents here
-# dfssf
-* dfsfsf
-% chiiichi
+# chiiichi
+* chiiichi
